@@ -7,4 +7,11 @@ authors = [
     { name = "Rob Curtis", email = "surreymagpie@yahoo.co.uk" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "pillow>=11.3.0",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.12.7",
+]
