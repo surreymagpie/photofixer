@@ -1,0 +1,10 @@
+[project]
+name = "photofixer"
+version = "0.1.0"
+description = "A tool to organise your photo library written in Python"
+readme = "README.md"
+authors = [
+    { name = "Rob Curtis", email = "surreymagpie@yahoo.co.uk" }
+]
+requires-python = ">=3.13"
+dependencies = []
